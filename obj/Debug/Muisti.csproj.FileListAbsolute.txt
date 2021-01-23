@@ -1,0 +1,52 @@
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\bin\Debug\Muisti.exe.config
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\bin\Debug\Muisti.exe
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\bin\Debug\Muisti.pdb
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.csprojAssemblyReference.cache
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.Properties.Resources.resources
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.csproj.GenerateResource.cache
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.csproj.CoreCompileInputs.cache
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.exe
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.pdb
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.frmMuistipeli.resources
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muisti\Muisti\obj\Debug\Muisti.csproj.CopyComplete
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\bin\Debug\Muisti.exe.config
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\bin\Debug\Muisti.exe
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\bin\Debug\Muisti.pdb
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.csprojAssemblyReference.cache
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.frmMuistipeli.resources
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.Properties.Resources.resources
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.csproj.GenerateResource.cache
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.csproj.CoreCompileInputs.cache
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.csproj.CopyComplete
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.exe
+C:\Users\matia\Documents\OH2 Harjoitustyö\Muistipeli\Muisti\obj\Debug\Muisti.pdb
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\bin\Debug\Muisti.exe.config
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\bin\Debug\Muisti.exe
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\bin\Debug\Muisti.pdb
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.csprojAssemblyReference.cache
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.frmMuistipeli.resources
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.Properties.Resources.resources
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.csproj.CopyComplete
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.exe
+C:\Users\matia\OneDrive - University of Eastern Finland\OH2\Muistipeli\Muisti\obj\Debug\Muisti.pdb
+C:\Users\matia\Documents\Local Projects\Muistipeli\bin\Debug\Muisti.exe.config
+C:\Users\matia\Documents\Local Projects\Muistipeli\bin\Debug\Muisti.exe
+C:\Users\matia\Documents\Local Projects\Muistipeli\bin\Debug\Muisti.pdb
+C:\Users\matia\Documents\Local Projects\Muistipeli\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\matia\Documents\Local Projects\Muistipeli\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.csprojAssemblyReference.cache
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.frmMuistipeli.resources
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.Properties.Resources.resources
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.csproj.GenerateResource.cache
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.csproj.CoreCompileInputs.cache
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.csproj.CopyComplete
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.exe
+C:\Users\matia\Documents\Local Projects\Muistipeli\obj\Debug\Muisti.pdb
